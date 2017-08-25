@@ -28,10 +28,11 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2554</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2554</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Inflated by his own ambition, Raskolnikov murders a pawnbroker then faces the inevitable consequences.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;Crime and Punishment tells the story of Rodion Raskolnikov, an ex-student who plans to murder a pawnbroker to test his theory of personality. Having accomplished the deed, Raskolnikov struggles with mental anguish while trying to both avoid the consequences and hide his guilt from his friends and family.&lt;/p&gt;
+			&lt;p&gt;Dostoyevsky’s original idea for the novel centred on the Marmeladov family and the impact of alcoholism in Russia, but inspired by a double murder in France he decided to rework it around the new character of Raskolnikov. The novel was first serialised in &lt;i epub:type="se:name.publication.journal"&gt;The Russian Messenger&lt;/i&gt; over the course of 1866 receiving instant public success, and it was published in a single volume in 1867. Presented here is Constance Garnett’s translation of 1914.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
