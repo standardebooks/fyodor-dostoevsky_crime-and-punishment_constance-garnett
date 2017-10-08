@@ -36,10 +36,6 @@ abbr.era{
 	margin: 1em 0;
 }
 
-[epub|type~="z3998:letter"] > p:first-child{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
