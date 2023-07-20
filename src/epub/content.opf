@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Inflated by his own ambition, Raskolnikov murders a pawnbroker then faces the inevitable consequences.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
