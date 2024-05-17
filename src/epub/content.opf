@@ -43,6 +43,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta id="collection-2" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">Inflated by his own ambition, Raskolnikov murders a pawnbroker then faces the inevitable consequences.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Crime and Punishment&lt;/i&gt; tells the story of Rodion Raskolnikov, an ex-student who plans to murder a pawnbroker to test his theory of personality. Having accomplished the deed, Raskolnikov struggles with mental anguish while trying to both avoid the consequences and hide his guilt from his friends and family.&lt;/p&gt;
