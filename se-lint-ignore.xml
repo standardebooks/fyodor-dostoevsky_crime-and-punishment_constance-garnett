@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="chapter-4-4.xhtml">
 		<ignore code="y-010">
+			<line>177</line>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-6-6.xhtml">
 		<ignore code="t-011">
+			<line>11</line>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
