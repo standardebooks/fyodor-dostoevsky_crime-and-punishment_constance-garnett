@@ -32,8 +32,8 @@
 		<meta property="file-as" refines="#title">Crime and Punishment</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<dc:subject id="subject-3">Russia -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Saint Petersburg (Russia) -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Russia--Fiction</dc:subject>
+		<dc:subject id="subject-4">Saint Petersburg (Russia)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
